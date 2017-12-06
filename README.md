@@ -6,8 +6,8 @@ Shorte.st is a URL shortening service that allows users to shorten urls which se
 
 # Installing 
 ```
-$ git clone https://github.com/MateoWartelle/Python3-Adfly-Api.git
-$ cd Python3-Adfly-Api
+$ git clone https://github.com/MateoWartelle/Python3-Shorte-Api.git
+$ cd Python3-Shorte-Api
 ```
 To install dependencies, run
 ```
